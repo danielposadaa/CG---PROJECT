@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Slaah1 1
+  m_Name: M_VFX_SlashDark
   m_Shader: {fileID: -6465566751694194690, guid: 87685b21b38d66b4bbedad4740b2b5d7,
     type: 3}
   m_Parent: {fileID: 0}
