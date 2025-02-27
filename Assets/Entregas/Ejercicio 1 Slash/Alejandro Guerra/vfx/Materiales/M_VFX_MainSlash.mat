@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Slaah1 1
+  m_Name: M_VFX_MainSlash
   m_Shader: {fileID: -6465566751694194690, guid: 87685b21b38d66b4bbedad4740b2b5d7,
     type: 3}
   m_Parent: {fileID: 0}
@@ -46,7 +46,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 0b77f8b881b8d0f43a9f3575348df53f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0c5e5489c45c2b843bcccc7e5b9f9d7d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DisolveMap:
@@ -83,6 +83,6 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _EmisionColor: {r: 0.74901956, g: 0.74901956, b: 0.74901956, a: 1}
+    - _EmisionColor: {r: 5.59088, g: 5.59088, b: 5.59088, a: 1}
     - _SmoothParticles: {r: 0, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
