@@ -83,6 +83,6 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _EmisionColor: {r: 5.59088, g: 5.59088, b: 5.59088, a: 1}
+    - _EmisionColor: {r: 3.2111168, g: 3.2111168, b: 3.2111168, a: 1}
     - _SmoothParticles: {r: 0, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
