@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Slaah1 3
+  m_Name: M_VFX_Golpe2
   m_Shader: {fileID: -6465566751694194690, guid: 87685b21b38d66b4bbedad4740b2b5d7,
     type: 3}
   m_Parent: {fileID: 0}
@@ -50,7 +50,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DisolveMap:
-        m_Texture: {fileID: 2800000, guid: 0d456c58052446241bb4db23f3363844, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -83,6 +83,6 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _EmisionColor: {r: 16.94838, g: 16.94838, b: 16.94838, a: 1}
+    - _EmisionColor: {r: 19.468573, g: 19.468573, b: 19.468573, a: 1}
     - _SmoothParticles: {r: 0, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
