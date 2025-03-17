@@ -12,18 +12,25 @@ Material:
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
+  m_ValidKeywords:
+  - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
+  stringTagMap:
+    RenderType: Transparent
+  disabledShaderPasses:
+  - DepthOnly
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _ColorAtlas:
+        m_Texture: {fileID: 2800000, guid: 62ab1b968f8c74f4880156c0e49a5fd9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Normal:
         m_Texture: {fileID: 2800000, guid: 67b59c66c01d07b4ab719c593732c511, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -46,12 +53,23 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _NormalStrength: 0.3
+    - _AlphaClip: 0
+    - _AlphaToMask: 0
+    - _Blend: 0
+    - _CastShadows: 1
+    - _Cull: 1
+    - _DstBlend: 10
+    - _NormalStrength: 0.22
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _SrcBlend: 5
+    - _Surface: 1
+    - _ZTest: 4
+    - _ZWrite: 0
+    - _ZWriteControl: 0
     m_Colors:
     - _CirclesTile: {r: 5, g: 5, b: 0, a: 0}
-    - _Roughnesscircles: {r: 0.5, g: 0.42, b: 0, a: 0}
+    - _Roughnesscircles: {r: 0.5, g: 0.6, b: 0, a: 0}
     - _SpeedRotation: {r: -1, g: 0, b: 1, a: 0}
     - _circlePatern: {r: 0, g: 2.77, b: 0, a: 0}
   m_BuildTextureStacks: []
