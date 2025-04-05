@@ -32,6 +32,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Color_Atlas:
+        m_Texture: {fileID: 2800000, guid: f1cf8bfb5df1bfc46b7c56c5074e0f51, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -91,6 +95,7 @@ Material:
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
+    - _ColorPower: 0
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
@@ -104,8 +109,8 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
-    - _NoisePower: 0.26
-    - _NoiseScale: 6.46
+    - _NoisePower: 0.36
+    - _NoiseScale: 11.92
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
@@ -123,13 +128,14 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 0.4949866, g: 3.44159, b: 0.17857309, a: 0.9647059}
+    - _Color: {r: 0.15865152, g: 0.8113208, b: 0.095674604, a: 0.9647059}
+    - _ColorAtlas: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _NoiseSpeed: {r: 1.23, g: 0, b: 0, a: 0}
+    - _NoiseSpeed: {r: 0.8, g: 0, b: 0, a: 0}
     - _NoiseSpeedd: {r: 0.85, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _TweirCenter: {r: 0.85, g: 0.5, b: 0, a: 0}
-    - _TweirSpeed: {r: 1.43, g: 0, b: 0, a: 0}
+    - _TweirSpeed: {r: 0.83, g: 0, b: 0, a: 0}
     - _TweirSpeed_1: {r: 5.63, g: 2.1, b: 0, a: 0}
     - _TwierlSpeed: {r: 1.04, g: 0, b: 0, a: 0}
     - _TwirlCenter: {r: 0.5, g: 0.5, b: 0, a: 0}
