@@ -11,6 +11,6 @@ Link al video en youtube donde se podra ver en diferentes vistas los requerimien
 - https://youtu.be/6EtFmgU-yls
 
 
-## Entrega 2 Trabajo Efecto Grupal De PArticulas 
+## Entrega 2 Trabajo Efecto Grupal De Particulas 
 - https://youtu.be/BVI61ZaHtPY
   
