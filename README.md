@@ -38,7 +38,7 @@ Link al video en youtube donde se podra ver en diferentes vistas los requerimien
 ![Image](https://github.com/user-attachments/assets/07d20680-08d9-4245-8ef0-59866854ba4c)
 ## 8. Matcap - Juan David Castillo
 ![Image](https://github.com/user-attachments/assets/c9754ec0-8097-4043-af98-a01881948bb3)
-![Image](https://github.com/user-attachments/assets/4cf0c560-4270-4add-88a8-ecade8d88df6)
+![Image](https://github.com/user-attachments/assets/3423a85c-67b2-4963-b572-2c063ffa3e96)
 ## 9. Intersección con ruido - Alejandro Guerra
 ![Image](https://github.com/user-attachments/assets/eb3ebc54-53c9-4241-8b08-f4ffc5f9a27d)
 ![Image](https://github.com/user-attachments/assets/2a158b84-3c0d-4585-8ede-ae7591ddd142)
