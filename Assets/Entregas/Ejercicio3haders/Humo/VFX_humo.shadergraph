@@ -498,10 +498,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 3582.226806640625,
-            "y": 780.4065551757813,
-            "width": 0.0,
-            "height": 0.0
+            "x": 3531.000244140625,
+            "y": 813.0001220703125,
+            "width": 208.0,
+            "height": 302.0
         }
     },
     "m_Slots": [
@@ -617,10 +617,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 4273.0,
-            "y": 720.0,
+            "x": 4278.00048828125,
+            "y": 934.0000610351563,
             "width": 120.0,
-            "height": 148.99993896484376
+            "height": 149.00006103515626
         }
     },
     "m_Slots": [
@@ -670,10 +670,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 4423.0,
-            "y": 910.9999389648438,
+            "x": 4451.00048828125,
+            "y": 939.0,
             "width": 128.0,
-            "height": 101.0
+            "height": 101.0001220703125
         }
     },
     "m_Slots": [
@@ -718,10 +718,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2923.999755859375,
-            "y": 1179.0,
+            "x": 2989.000244140625,
+            "y": 1584.0001220703125,
             "width": 164.0,
-            "height": 33.9998779296875
+            "height": 34.0001220703125
         }
     },
     "m_Slots": [
@@ -1205,8 +1205,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 5007.0,
-            "y": 733.0,
+            "x": 5054.00048828125,
+            "y": 1044.0001220703125,
             "width": 208.0,
             "height": 302.0
         }
@@ -1263,10 +1263,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2713.240966796875,
-            "y": 576.41162109375,
-            "width": 0.0,
-            "height": 0.0
+            "x": 2634.000244140625,
+            "y": 981.0000610351563,
+            "width": 159.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -1468,10 +1468,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 3225.999755859375,
-            "y": 985.9999389648438,
+            "x": 3291.000244140625,
+            "y": 1391.0001220703125,
             "width": 208.0,
-            "height": 302.00006103515627
+            "height": 302.0
         }
     },
     "m_Slots": [
@@ -1533,10 +1533,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2486.0,
-            "y": 372.0,
+            "x": 2407.000244140625,
+            "y": 777.0,
             "width": 208.0,
-            "height": 313.0
+            "height": 313.0001220703125
         }
     },
     "m_Slots": [
@@ -1752,10 +1752,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 4820.0,
-            "y": 816.9999389648438,
+            "x": 4839.00048828125,
+            "y": 1123.0,
             "width": 174.0,
-            "height": 34.00006103515625
+            "height": 34.0001220703125
         }
     },
     "m_Slots": [
@@ -1886,8 +1886,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 3301.0,
-            "y": 407.0,
+            "x": 3222.000244140625,
+            "y": 812.0001220703125,
             "width": 208.0,
             "height": 302.0
         }
@@ -2156,10 +2156,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 4606.0,
-            "y": 743.0,
-            "width": 207.99951171875,
-            "height": 302.0
+            "x": 4620.00048828125,
+            "y": 1022.0000610351563,
+            "width": 208.0,
+            "height": 301.99993896484377
         }
     },
     "m_Slots": [
@@ -2668,10 +2668,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 4004.612060546875,
-            "y": 697.94091796875,
-            "width": 0.0,
-            "height": 0.0
+            "x": 4029.00048828125,
+            "y": 823.0,
+            "width": 208.0,
+            "height": 435.0001220703125
         }
     },
     "m_Slots": [
@@ -2790,10 +2790,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 5350.0,
-            "y": 599.0,
-            "width": 207.99951171875,
-            "height": 301.99993896484377
+            "x": 5355.00048828125,
+            "y": 915.0,
+            "width": 208.0,
+            "height": 302.0001220703125
         }
     },
     "m_Slots": [
@@ -2975,10 +2975,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2914.999755859375,
-            "y": 874.9999389648438,
+            "x": 2980.000244140625,
+            "y": 1280.0001220703125,
             "width": 124.0,
-            "height": 173.00006103515626
+            "height": 173.0
         }
     },
     "m_Slots": [
@@ -3020,8 +3020,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2887.0,
-            "y": 404.0,
+            "x": 2808.000244140625,
+            "y": 809.0001220703125,
             "width": 208.0,
             "height": 302.0
         }
@@ -3063,8 +3063,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 3112.0,
-            "y": 537.0,
+            "x": 3033.000244140625,
+            "y": 942.0000610351563,
             "width": 163.0,
             "height": 34.0
         }
@@ -3114,10 +3114,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 3810.0,
-            "y": 723.0,
+            "x": 3848.00048828125,
+            "y": 807.0,
             "width": 135.0,
-            "height": 34.0
+            "height": 34.00006103515625
         }
     },
     "m_Slots": [
