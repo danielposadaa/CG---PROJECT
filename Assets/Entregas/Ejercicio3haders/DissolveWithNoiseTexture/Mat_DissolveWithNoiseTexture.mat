@@ -120,7 +120,7 @@ Material:
     - _GlossyReflections: 0
     - _Metallic: 0
     - _NoisePower: 0.15
-    - _NoiseScale: 9.29
+    - _NoiseScale: 8.87
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
