@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Agua
+  m_Shader: {fileID: -6465566751694194690, guid: 08ce942f2f1cf744b83c07c78ecda36b,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ColorOnda: 0
+    - _Corte_De_Espuma: 4.51
+    - _DensidadDeOnda: 11.6
+    - _EscalaEspuma: 100
+    - _EscalaOla: 1.69
+    - _Espuma: 1
+    - _GradientScale: 0
+    - _OndaSpeed: 2.19
+    - _Profundidad_Agua: 10
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _RefractionScale: 3.36
+    - _RefractionSpeed: 0.09
+    - _RefractionStrenght: 0.08
+    - _Tama_oOnda: 7.32
+    - _VelocidadEspuma: 1
+    - _waveSpeed: 0.6
+    m_Colors:
+    - _Agua: {r: 0.13333333, g: 0.41625643, b: 0.6431373, a: 0.7529412}
+    - _Color: {r: 0.14328936, g: 0.7035257, b: 0.8679245, a: 1}
+    - _ColorOnda: {r: 0.1284683, g: 0.36150402, b: 0.6333786, a: 1}
+    - _Color_profundidad: {r: 0.130162, g: 0.20485981, b: 0.6132076, a: 0.9254902}
+    - _DistortionSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _DistortionSpeedrefla: {r: 0, g: 0, b: 0, a: 0}
+    - _Vector2: {r: 10, g: 0, b: 0, a: 0}
+    - _colorespuma: {r: 1, g: 1, b: 1, a: 0.6039216}
+  m_BuildTextureStacks: []
+--- !u!114 &4867431492066720670
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
