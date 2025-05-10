@@ -18,7 +18,7 @@ void GetMainLight_float(float3 PositionWS, out half3 color, out float3 Direction
    
     shadowAttenuation = SampleShadowmap(shadowcoord, TEXTURE2D_ARGS(_MainLightShadowTexture, sample_MainLightShadowmapTexture),
     shadowSamplingData,
-    shadowintensity, false);*/
+    shadowintensity, false);
    
     #endif 
 }
@@ -58,6 +58,6 @@ void GetMainLight_float(float3 PositionWS, out half3 color, out float3 Direction
         #endif 
     }
 
-  #endif 
+  #endif */
 
 
