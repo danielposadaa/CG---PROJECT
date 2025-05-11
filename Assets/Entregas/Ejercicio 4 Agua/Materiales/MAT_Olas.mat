@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Olas
+  m_Name: MAT_Olas
   m_Shader: {fileID: -6465566751694194690, guid: 45ce02c6495f2dd40a7f332f413a5a32,
     type: 3}
   m_Parent: {fileID: 0}
