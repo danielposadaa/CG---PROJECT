@@ -42,3 +42,11 @@ Link al video en youtube donde se podra ver en diferentes vistas los requerimien
 ## 9. Intersección con ruido - Alejandro Guerra
 ![Image](https://github.com/user-attachments/assets/eb3ebc54-53c9-4241-8b08-f4ffc5f9a27d)
 ![Image](https://github.com/user-attachments/assets/2a158b84-3c0d-4585-8ede-ae7591ddd142)
+
+# Entrega ejercicio 4 Agua
+## Link al video en youtube: https://youtu.be/EU2vKtr0scA
+## Intregrantes
+### Alejandro Guerra
+### Juan David Castillo
+### Daniel Posada Arana
+
