@@ -45,7 +45,7 @@ Link al video en youtube donde se podra ver en diferentes vistas los requerimien
 
 # Entrega ejercicio 4 Agua
 ## Link al video en youtube: https://youtu.be/EU2vKtr0scA
-## Intregrantes
+## Integrantes
 ### Alejandro Guerra
 ### Juan David Castillo
 ### Daniel Posada Arana
