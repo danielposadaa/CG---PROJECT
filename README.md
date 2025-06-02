@@ -52,4 +52,5 @@ Link al video en youtube donde se podra ver en diferentes vistas los requerimien
 
 # Entrega ejercicio 5 Final Demo Efectos
 ## Link al video en youtube: [https://youtu.be/EU2vKtr0scA](https://youtu.be/_du8VMTrHcY)
+## El archivo webGL no se exportó debido a unas incompatibilidades con las animaciones de Mixamo y el peso de los archivos.
 
